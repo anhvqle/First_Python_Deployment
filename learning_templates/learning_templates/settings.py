@@ -25,7 +25,7 @@ SECRET_KEY = 'bsuh)yy@5v7)hjp@4@j$7mib5=y9-q7^w^rtgdvpc6vxa5tkka'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['anhvqle.pythonanywhere.com']
 
 
 # Application definition
